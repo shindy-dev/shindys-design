@@ -1,7 +1,5 @@
-# Design
- 
-icon 変更対象
-https://github.com/settings/profile
-https://studio.youtube.com/channel/UC6GDtQ7oLtTTUEHhSGv7yVw/editing/images
-https://myaccount.google.com/?utm_source=OGB&tab=rk&utm_medium=act
-https://twitter.com/ShindyDev
+# shindys-design
+
+# LICENSE
+All illustrations in this repository are under CC BY-NC-ND 4.0.
+You may not use them for commercial purposes or modify them.
